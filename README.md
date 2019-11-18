@@ -14,9 +14,3 @@ My website currently contains 3 different pages:
 	• Page 2: Chat App: Currently, the only page deployed on Amazon S3 bucket. It contains Chat bot that can answer some basic questions about me
 	• Page 3: Bart App: Bart Application deployed on this page giving important information about BART trains, stations
 	
-	
-	
-	
-		
-		
-
